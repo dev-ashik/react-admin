@@ -20,8 +20,7 @@ const Topbar = () => {
   return (
     <Box
       display="flex"
-      justifyContent="space-bet
-    "
+      justifyContent="space-between"
       p={2}
     >
       {/* search bar */}
